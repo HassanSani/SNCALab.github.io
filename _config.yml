@@ -1,0 +1,10 @@
+title: Thermal Adaptation & Vector Biology Lab
+description: Research on thermal tolerance, fitness, and molecular adaptation in Anopheles mosquitoes across Nigerian ecological zones
+theme: minima
+markdown: kramdown
+
+header_pages:
+  - research.md
+  - people.md
+  - publications.md
+  - contact.md
