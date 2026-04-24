@@ -17,7 +17,7 @@ Interests: Climate stress biology, neural adaptation, mosquito fitness
 <details open>
 <summary><strong>2026 (Current)</strong></summary>
 
-Pilot Study on Fitness and Biochemical Basis of Thermal Tolerance in Drosophila - Translatable into Anopheles Mosquitoe  
+ Pilot Study on Fitness and Biochemical Basis of Thermal Tolerance in Drosophila - Translatable into Anopheles Mosquitoe  
  
 - Muhammad Sidi Husna
 - Anthony Princess Amarachi
@@ -32,34 +32,34 @@ Pilot Study on Fitness and Biochemical Basis of Thermal Tolerance in Drosophila 
 - Ibrahim Oshla Tsaku
 - Boniface Favour Nmesomma
 - Yohanna Nenkit
-Umoru Abass Tayibat
-Babalola Ikimot Abosede
-Kabiru Ize Hadiza
-Aringbere Fehintola Fatima
-Regina Solomon
-Mohammed El-Mustapha Mohammed
-Ahmed Abdulhakeem
-Bin Hanbal Abdurrahman Muhammad
-Oraduen Ngufan Tracy
-Stephnora Ishaku Nanum
-Ichemeta Monday Linus
-Ibrahim Innocent Atama
-Cecilia Adole
-Samson Ochefi je Edwin
-Kalipha Ogmeshi
-Usman Rukaiya Adams
-Amina Ibrahim Sani
-John Ada Prince
-Dorcas Kuyet Nuhu
-Gbwachu Miracle Ntsego
-Ahenda Joy Sefa
-Adamu Lubabatu Onarigu
-Bala Abdulkarim
-Destiny Oyalkhilomen Asebhofoh
-Anthony Theresa
-Abdulmalik Salisu Owuna
-Umar Daulat Nasambo
-Asmau Yakubu Musa
+- Umoru Abass Tayibat
+- Babalola Ikimot Abosede
+- Kabiru Ize Hadiza
+- Aringbere Fehintola Fatima
+- Regina Solomon
+- Mohammed El-Mustapha Mohammed
+- Ahmed Abdulhakeem
+- Bin Hanbal Abdurrahman Muhammad
+- Oraduen Ngufan Tracy
+- Stephnora Ishaku Nanum
+- Ichemeta Monday Linus
+- Ibrahim Innocent Atama
+- Cecilia Adole
+- Samson Ochefi je Edwin
+- Kalipha Ogmeshi
+- Usman Rukaiya Adams
+- Amina Ibrahim Sani
+- John Ada Prince
+- Dorcas Kuyet Nuhu
+- Gbwachu Miracle Ntsego
+- Ahenda Joy Sefa
+- Adamu Lubabatu Onarigu
+- Bala Abdulkarim
+- Destiny Oyalkhilomen Asebhofoh
+- Anthony Theresa
+- Abdulmalik Salisu Owuna
+- Umar Daulat Nasambo
+- Asmau Yakubu Musa
 
 </details>
 
