@@ -6,5 +6,12 @@ markdown: kramdown
 header_pages:
   - research.md
   - people.md
+  - people-pi.md
+  - people-students.md
+  - people-students-pg.md
+  - people-students-ug.md
+  - people-students-ug-2026.md
+  - people-students-ug-2025.md
+  - people-students-ug-2024.md
   - publications.md
   - contact.md
