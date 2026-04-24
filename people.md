@@ -4,16 +4,6 @@ title: People
 ---
 
 ## Lab Members
-
-**Jump to:**
-- [Principal Investigator](#principal-investigator)
-- [Graduate Researchers](#graduate-researchers)
-- [Undergraduate Researchers](#undergraduate-researchers)
-- [Collaborators](#collaborators)
-
----
-
-
 ## Principal Investigator
 
 **Dr. Sani Hassan**  
