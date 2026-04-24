@@ -12,12 +12,30 @@ Interests: Climate stress biology, neural adaptation, mosquito fitness
 
 ---
 
-## Graduate Researchers
+## Undergraduate Researchers
 
-**Ishaku Igene Dogara**  
-MSc Student  
-Project: Residual effect of Herbicides on Fruit flies
+<details open>
+<summary><strong>2026 (Current)</strong></summary>
 
+**Zainab Musa** – Heat‑induced enzymatic stress responses  
+**Ibrahim Sule** – Temperature effects on mosquito fitness
+
+</details>
+
+<details>
+<summary><strong>2025</strong></summary>
+
+**Fatima Lawal** – Antioxidant enzyme assays  
+**Sadiq Umar** – Behavioural thermal stress responses
+
+</details>
+
+<details>
+<summary><strong>2024</strong></summary>
+
+**Aisha Abdullahi** – Protein stability under heat shock
+
+</details>
 
 ---
 
