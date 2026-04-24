@@ -12,12 +12,12 @@ Neurobiochemistry | Stress Physiology | Climate Adaptation
 ## 2025 Undergraduate Research Groups
 
 Our 2025 cohort comprises eight research groups investigating the impacts of high-fat diet on *Drosophila melanogaster* physiology, behavior, and fitness. These studies employ rapid performance assays, developmental tracking, reproductive fitness analysis, and behavioral phenotyping to identify mechanistic links between metabolic stress and biological dysfunction.
+- Aderibigbe Taiwo Esther
 - Samuel Anita Abeson
 - Abuh Gloria Inikpi
 - Aliyu Salisu Galadima
 - Yakubu Mujahid Apeshi
 - Suluka Oluwaremilekun Sikira
-- Aderibigbe Taiwo Esther
 - David Aku Philip
 - Muhammad Yahaya Hamisu
 - Nweze Helen
