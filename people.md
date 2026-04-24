@@ -13,7 +13,21 @@ title: People
 
 ---
 
+
 ## Principal Investigator
+
+**Dr. Sani Hassan**  
+Principal Investigator  
+Interests: Climate stress biology, neural adaptation, mosquito fitness  
+
+---
+
+## Graduate Researchers
+
+**Ishaku Igene Dogara**  
+MSc Student  
+Project: Residual effect of Herbicides on Fruit flies
+
 
 ---
 
