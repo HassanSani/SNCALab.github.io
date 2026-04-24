@@ -17,7 +17,7 @@ Interests: Climate stress biology, neural adaptation, mosquito fitness
 <details open>
 <summary><strong>2026 (Current)</strong></summary>
 
- **2025 Undergraduate Research Groups**
+ **2026 Undergraduate Research Groups**
  
  - Pilot Study on Fitness and Biochemical Basis of Thermal Tolerance in Drosophila - Translatable into Anopheles Mosquitoe  
  
